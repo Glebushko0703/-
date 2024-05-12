@@ -2,7 +2,7 @@
 ПРАВИЛА:
 
 ВООБЩЕ НАДО ПИСАТЬ ТАК
-18 марта 1980гг
+18 марта 1980г
 с-- Катастрофа на космодроме Плесецк. Взрывы при подготовке к запуску ракетоносителя Восток-2М, из-за нарушений заправки 3-ей ступени жидким кислородом. 48 погибших.
 Рождается
 р-* Наталья Поклонская, русская политик.
@@ -36,7 +36,7 @@
 спуск (спуск судна на воду \ введение в эксплуатацию)
 пуск (запуск космического аппарата)
 запуск (касательно программ и ПО)
-выпуск (касательно техники)
+Начато производство (касательно техники)
 создан (создание чего-то)
 заложен (начало здания)
 основан (про города)
@@ -50,12 +50,17 @@
 конец (заверщение программы)
 премтера (первый показ фильма)
 эфир (первый показ передачи)
-релиз (выпуск музыки)
+Релиз (выпуск музыки)
 
 НАЧИНАЙ
 
+
+чт 3 января 1980г
+с-*(АВТО) Начато производство ВАЗ-2105.
+
+
 пн 7 января 1980г
-с-+ Chrysler получил субсидию $1.5 млрд.
+с-+(АВТО) Chrysler получил субсидию $1.5 млрд.
 
 
 вт 8 января 1980г
@@ -64,7 +69,7 @@
 
 
 пт 11 января 1980г
-МУЗ:с-- релиз Pretenders - Private Life (Sire Recs.).
+с--(МУЗК) Релиз Pretenders - Private Life (Sire Recs.).
 
 
 сб 12 января 1980г
@@ -92,7 +97,7 @@
 
 пн 21 января 1980г
 с-- Упал Рейс 291: У Тегерана, Из-за неисправности VORTAC при посадке Boeing 727 (EP-IRD) отклонился от курса и врезался в горы хребта Эльбрус. 128 погибших (рекорд для Ирана).
-МУЗ:с-- релиз Split Enz - I Got You (A&M Recs.).
+с--(МУЗК) Релиз Split Enz - I Got You (A&M Recs.).
 
 
 пт 25 января 1980г
@@ -105,7 +110,7 @@
 
 
 вт 29 января 1980г
-МУЗ:с-* релиз Blondie - Call Me (Polydor Recs. \ Chrysalis Recs. \ Salsoul Recs.)
+с-*(МУЗК) Релиз Blondie - Call Me (Polydor Recs. \ Chrysalis Recs. \ Salsoul Recs.)
 
 
 пт 1 февраля 1980г
@@ -123,7 +128,7 @@
 
 
 пн 11 февраля 1980г
-КИНО:с-* Премьера Москва слезам не верит (реж. - Владимир Меньшов, в ролях - Вера Алентова, Алексей Баталов).
+с-*(КИНО) Премьера Москва слезам не верит (реж. - Владимир Меньшов, в ролях - Вера Алентова, Алексей Баталов).
 
 
 вт 12 февраля 1980г
@@ -160,13 +165,17 @@
 пн 3 марта 1980г
 с-- Подписание еонвенции о физической защите ядерного материала в Нью-Йорке.
 с-+ Списание подлодки USS Nautilus (SSN-571): Она участвовала в слежках за СССР в водах у северного полюса и стала 1-ым судном достигшим его своим ходом.
-МУЗ:с-- релиз Genesis - Turn It On Again (Charisma Recs. \ Atlantic Recs.).
+с--(МУЗК) Релиз Genesis - Turn It On Again (Charisma Recs. \ Atlantic Recs.).
 Рождается
 р-- Кэтрин Уотерстон, английская актриса.
 
 
+ср 5 марта 1980г
+с-*(АВТО) публике показан Fiat Panda.
+
+
 пт 7 марта 1980г
-МУЗ:с-+ релиз The Stranglers - Bear Cage (United Artists Recs.).
+с-+(МУЗК) Релиз The Stranglers - Bear Cage (United Artists Recs.).
 Рождается
 р-- Лора Препон, американская актриса.
 
@@ -180,7 +189,7 @@
 
 
 вт 11 марта 1980г
-МУЗ:с-* релиз Lipps Inc. - Funkytown (Casablanca  Recs.).
+с-*(МУЗК) Релиз Lipps Inc. - Funkytown (Casablanca  Recs.).
 Рождается
 р-* Марк Робер, американский блогер.
 р-+ Юрий Чурсин, русский актёр.
@@ -268,12 +277,12 @@
 
 
 ср 16 апреля 1980г
-МУЗ:с-+ релиз Change - The Glow Of Love (1-ый альбом, RFC Recs.).
+с-+(МУЗК) Релиз Change - The Glow Of Love (1-ый альбом, RFC Recs.).
 
 
 чт 24 апреля 1980г
-МУЗ:с-* релиз The Cure - A Forest (Fiction Recs.).
-МУЗ:с-- релиз Isley Brothers - Between the Sheets (22-ой альбом, T-Neck Recs.): Хиты - Ballad for the Fallen.
+с-*(МУЗК) Релиз The Cure - A Forest (Fiction Recs.).
+с--(МУЗК) Релиз Isley Brothers - Between the Sheets (22-ой альбом, T-Neck Recs.): Хиты - Ballad for the Fallen.
 
 
 вс 27 апреля 1980г
@@ -284,17 +293,17 @@
 пт 9 мая 1980г
 с-- Обрушение Моста Саншайн-Скайуэй: Столкновение судна MV Summit Venture с мостом над заливом Тампа, штат Флорида в 7:33 по местному времени. 35 погибших.
 с-- Перестрелка в Норко: В 15:40 5 вооржунных мужчин ограбили Security Pacific Bank в на Хамнер Авеню, спровоцировав погоню и перестрелку с полицией. 3 погибших.
-КИНО:c-* Премьера Пятница 13-е (реж. - Шон Каннингем).
-МУЗ:с-- релиз Genesis - Duchess (Charisma Recs / Virgin Recs. / Atlantic Recs.).
-АВТО:с-+ Последний парад победы с ЗИС-101 (кабриолетом Сталина)
+с-*(КИНО) Премьера Пятница 13-е (реж. - Шон Каннингем).
+с--(МУЗК) Релиз Genesis - Duchess (Charisma Recs / Virgin Recs. / Atlantic Recs.).
+с-+(АВТО) Последний парад победы с ЗИС-101 (кабриолетом Сталина).
 
 
 вт 13 мая 1980г
-МУЗ:с-+ релиз Flowers - Can't Help Myself (Regular Recs. \ Chrysalis Recs.).
+с-+(МУЗК) Релиз Flowers - Can't Help Myself (Regular Recs. \ Chrysalis Recs.).
 
 
 пт 16 мая 1980г
-КИНО:c-- Премьера Слава. (реж. - Алан Паркер, в ролях - Айрин Кара, Дебби Аллен)
+с--(КИНО) Премьера Слава. (реж. - Алан Паркер, в ролях - Айрин Кара, Дебби Аллен)
 
 
 вс 18 мая 1980г
@@ -303,23 +312,27 @@
 
 
 пн 19 мая 1980г
-АВТО:с-- Начат выпуск Triumph TR8.
+с--(АВТО) Начато производство Triumph TR8.
 
 
 чт 22 мая 1980г
-МУЗ:с-* релиз Diana Ross - Diana (11-ый альбом, Motown Recs.): Хиты - Upside Down, My Old Piano.
+с-*(МУЗК) Релиз Diana Ross - Diana (11-ый альбом, Motown Recs.): Хиты - Upside Down, My Old Piano.
 
 
 пн 30 июня 1980г
-МУЗ:с-- релиз Motels - Careful  (2-ой альбом, Capitol Recs.): Хиты - Danger.
+с--(МУЗК) Релиз Motels - Careful  (2-ой альбом, Capitol Recs.): Хиты - Danger.
 
 
 пн 30 июня 1980г
-МУЗ:с-* релиз Queen - The Game (8-ой альбом, Elektra Recs.): Хиты - Another One Bites the Dust.
+с-*(МУЗК) Релиз Queen - The Game (8-ой альбом, Elektra Recs.): Хиты - Another One Bites the Dust.
 
 
 вт 1 июля 1980г
-АВТО:с-+ Начат выпуск Morris Ital.
+с-+(АВТО) Начато производство Morris Ital.
+
+
+вт 8 июля 1980г
+с-*(АВТО) Показан Bentley Mulsanne.
 
 
 сб 19 июля 1980г
@@ -327,11 +340,11 @@
 
 
 чт 24 июля 1980г
-АВТО:с-+ С конвейера в Хейлвуде сошел последний Ford Escort Mk2.
+с-+(АВТО) Конец производства Ford Escort Mk2: Хейлвуде с конвейера сошел последний Форд Жскорт 2 поколения.
 
 
 пт 25 июля 1980г
-МУЗ:с-- релиз Teddy Pendergrass - TP (4-ый альбом, Philadelphia International Recs.): Хиты - Love T.K.O.
+с--(МУЗК) Релиз Teddy Pendergrass - TP (4-ый альбом, Philadelphia International Recs.): Хиты - Love T.K.O.
 
 
 вт 29 июля 1980г
@@ -340,7 +353,7 @@
 
 
 пт 1 августа 1980г
-МУЗ:с-+ релиз Siouxsie And The Banshees - Kaleidoscope (3-ий альбом, Polydor Recs.): Хиты - Christine, Happy House.
+с-+(МУЗК) Релиз Siouxsie And The Banshees - Kaleidoscope (3-ий альбом, Polydor Recs.): Хиты - Christine, Happy House.
 
 
 вс 3 августа 1980г
@@ -348,15 +361,16 @@
 
 
 пт 8 августа 1980г
-МУЗ:с-+ релиз The English Beat - Best Friend (Go-Feet Recs. \ Arista Recs.).
+с-+(МУЗК) Релиз The English Beat - Best Friend (Go-Feet Recs. \ Arista Recs.).
+с--(АВТО) Начато производство Plymouth Reliant \ Dodge Aries: Первый американский K-car cобран на заводе Джефферсона в Детройте.
 
 
 пн 1 сентября 1980г
-АВТО:с-- Начат выпуск Ford Escort Mk3.
+с--(АВТО) Начато производство Ford Escort Mk3.
 
 
 пн 8 сентября 1980г
-МУЗ:с-- релиз Kate Bush - Never for Ever (3-ий альбом, EMI Recs.): Хиты - Babooshka, Army Dreamers, Breathing.
+с--(МУЗК) Релиз Kate Bush - Never for Ever (3-ий альбом, EMI Recs.): Хиты - Babooshka, Army Dreamers, Breathing.
 
 
 вт 16 сентября 1980г
@@ -365,33 +379,49 @@
 
 
 пт 26 сентября 1980г
-МУЗ:с-- релиз Orchestral Manoeuvres In The Dark - Enola Gay (Dindisc Recs.).
+с--(МУЗК) Релиз Orchestral Manoeuvres In The Dark - Enola Gay (Dindisc Recs.).
 
 
 пн 29 сентября 1980г
-МУЗ:с-* релиз Kool & The Gang - Celebration (De-Lite Recs.).
+с-*(МУЗК) Релиз Kool & The Gang - Celebration (De-Lite Recs.).
+
+
+ср 1 октября 1980г
+с--(АВТО) Показан Rolls Royce Silver Spirit: Первый автомобиль с прячущейся Никой (spirit of ecstasy) на капоте.
+
+
+ср 1 октября 1980г
+с--(АВТО) Начато производство Ford Escort в США.
 
 
 ср 8 октября 1980г
-АВТО:с-- Начало производства Mini \ Austin Metro.
-МУЗ:с-+ релиз Prince - Dirty Mind (Warner Bros. Recs.).
-МУЗ:с-- релиз Missing Persons - Spring Session M (1-ый альбом, Capitol Recs.): Хиты - Destination Unknown.
+с-*(АВТО) Начато производство Austin Metro.
+с-+(МУЗК) Релиз Prince - Dirty Mind (Warner Bros. Recs.).
+с--(МУЗК) Релиз Missing Persons - Spring Session M (1-ый альбом, Capitol Recs.): Хиты - Destination Unknown.
+
+
+вт 21 октября 1980г
+с-+(АВТО) Конец производства International Scout.
 
 
 чт 23 октября 1980г
-АВТО:с-+ Конец выпуска MG MGB.
+с-+(АВТО) Конец производства MG MGB.
 
 
 пн 27 октября 1980г
-МУЗ:с-- релиз The Buggles - Elstree (Island Recs.).
+с--(МУЗК) Релиз The Buggles - Elstree (Island Recs.).
 
 
 пт 14 ноября 1980г
-МУЗ:с-+ релиз The Boomtown Rats - Banana Republic.
+с-+(МУЗК) Релиз The Boomtown Rats - Banana Republic.
+
+
+пт 28 ноября 1980г
+с--(АВТО) Начато производство Zastava Yugo.
 
 
 сб 29 ноября 1980г
-МУЗ:с-- релиз Siouxsie And The Banshees - Israel (Polydor Recs.).
+с--(МУЗК) Релиз Siouxsie And The Banshees - Israel (Polydor Recs.).
 
 
 15 декабря 1980г
@@ -404,7 +434,7 @@
 
 
 пн 15 декабря 1980г
-МУЗ:с-- релиз Kim Carnes - Mistaken Identity (6-ой альбом, EMI Recs.): Хиты - Bette Davis Eyes.
+с--(МУЗК) Релиз Kim Carnes - Mistaken Identity (6-ой альбом, EMI Recs.): Хиты - Bette Davis Eyes.
 
 
 ср 3 декабря 1980г
@@ -417,7 +447,7 @@
 
 
 пн 8 декабря 1980г
-МУЗ:с-- релиз The Gap Band - The Gap Band III (5-ый альбом, Mercury Recs.): Хиты - Burn Rubber (Why You Wanna Hurt Me).
+с--(МУЗК) Релиз The Gap Band - The Gap Band III (5-ый альбом, Mercury Recs.): Хиты - Burn Rubber (Why You Wanna Hurt Me).
 с-* Убийство Леннона: Марк Чепмен выстрелил в спину Джону 5 раз в 22:50 у входа в апартаменты Дакота, когда тот возрвращался с Йоко из Record Plant, незадолго до сделав последнее фото у Лейбовиц. Последние слова ему - Mr. Lennon!, его - I'm shot!
 Умирает
 у-* Джон Леннон (р 1940) английский певец.
